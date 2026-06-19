@@ -14,7 +14,6 @@ String name = "John Doe";
 int age = 25;
 double height = 5.9;
 bool isStudent = true;
-
 // Function to calculate BMI
 double calculateBMI(double weight, double height) {
   return weight / (height * height);

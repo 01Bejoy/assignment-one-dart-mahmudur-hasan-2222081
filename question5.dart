@@ -1,4 +1,4 @@
-// Question 5: Advanced Features & Mixins (Difficulty: 5/5) ⭐⭐⭐⭐⭐
+// Question 5:Advanced Features & Mixins (Difficulty: 5/5) ⭐⭐⭐⭐⭐
 /**
  * EXPECTED OUTPUT:
  * Manager: John Smith (ID: M001, Department: IT, Team Size: 5)

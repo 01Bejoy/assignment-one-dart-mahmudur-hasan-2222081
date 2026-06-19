@@ -38,7 +38,7 @@ void main() {
   //    - The student with the highest score
   //    - The student with the lowest score
   //    - The average score of all students
-  // TODO: Implement the logic to find highest, lowest, and average scores
+  // TODO: Implement the logic to find highest, lowest,and average scores
   String highestStudent = "";
   int highestScore = 0;
 
