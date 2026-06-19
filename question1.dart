@@ -6,7 +6,7 @@
  * Grade: B
  */
 
-// 1. Create variables of different data types: String, int, double, bool
+// 1.Create variables of different data types: String, int, double, bool
 // TODO: Add your variables here
 // Question 1: Basic Data Types & Functions
 

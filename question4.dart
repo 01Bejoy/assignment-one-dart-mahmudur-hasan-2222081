@@ -1,4 +1,4 @@
-// Question 4:Inheritance & Polymorphism (Difficulty: 4/5) ⭐⭐⭐⭐
+// Question 4: Inheritance & Polymorphism (Difficulty: 4/5) ⭐⭐⭐⭐
 /**
  * EXPECTED OUTPUT:
  * Vehicle Info: 2020 Toyota Camry (4 doors)
